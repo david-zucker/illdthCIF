@@ -1,4 +1,4 @@
-Package: illdth-cif-data-analysis
+Package: illdthCIF
 Title: Cumulative Incidence Function Estimation
 Version: 0.0.1.0
 Authors@R: person("David", "Zucker", , "david.zucker@mail.huji.ac.il", role = c("aut", "cre"))
