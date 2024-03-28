@@ -1,0 +1,5 @@
+Package: illdth-cif-data-analysis
+Type: Package
+Title: Cumulative Incidence Function Estimation
+Version: 0.0.1.0
+RoxygenNote: 7.2.3
