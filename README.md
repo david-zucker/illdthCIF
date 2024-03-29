@@ -1,0 +1,2 @@
+This Github site contains an R package called illdthGIF with a function called cifcmp.full for appying to a dataset the method for estimating cumulative incidence rate (CIF) of disease in the illness-death model presented in the following paper:
+Gorfine M, Zucker DM, and Shoham S. (2024). Cumulative incidence function estimation based on population-based biobank data. ArXiv: http://arxiv.org/abs/2403.18464
