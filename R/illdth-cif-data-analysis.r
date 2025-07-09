@@ -611,7 +611,7 @@ if (pt.ci == 1) {
 }
 else {
   aj.pt.crit = apply(abs(aj.zstat.boot), 2, quantile, probs=covpr)
-  new.pt.crit = apply(abs(aj.zstat.boot), 2, quantile, probs=covpr)
+  new.pt.crit = apply(abs(new.zstat.boot), 2, quantile, probs=covpr)
   if (cmb.flg) {cmb.pt.crit = apply(abs(cmb.zstat.boot), 2, quantile, probs=covpr)}
 }
 #AJ
